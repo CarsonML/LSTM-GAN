@@ -1,5 +1,5 @@
 # LSTM-GAN
-GAN used to generate music (Work in Progress)
+The goal of this poject is to use a GAN to generate music (Work in Progress)
 
 # The Data
 I got my data from this reddit post:
