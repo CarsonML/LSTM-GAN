@@ -23,3 +23,5 @@ I take a sample and Save every 10 batches. The sample is converted to a midi fil
 
 # Current Progress
 I am currently in the process of running the code, and no music has yet been generated. At the first epoch, the network had not yet learned to produce 1's, so the process that reconstructed the music created an empty file
+
+Made while working with Hello World Studio
